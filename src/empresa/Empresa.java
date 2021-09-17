@@ -43,7 +43,7 @@ public class Empresa {
             
                 case 1:
                     //contador
-                    if ( i;empleados<=10;i++)
+                    if ( i,empleados<=10,i++)
                     {
                         empleados[contador]=new Empleado();
                         System.out.println("Digita el id del empleado: ");
